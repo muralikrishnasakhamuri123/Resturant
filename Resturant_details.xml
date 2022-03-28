@@ -1,0 +1,27 @@
+﻿<Resturant_details>
+  <Resturant>
+    <r_id>r1</r_id>
+    <r_name>London foods</r_name>
+    <location>london</location>
+  </Resturant>
+  <Resturant>
+    <r_id>r2</r_id>
+    <r_name>Orasay</r_name>
+    <location>london</location>
+  </Resturant>
+  <Resturant>
+    <r_id>r3</r_id>
+    <r_name>The Ledbury</r_name>
+    <location>london</location>
+  </Resturant>
+  <Resturant>
+    <r_id>r4</r_id>
+    <r_name>Scott</r_name>
+    <location>london</location>
+  </Resturant>
+  <Resturant>
+    <r_id>r5</r_id>
+    <r_name>fast foods centre</r_name>
+    <location>london</location>
+  </Resturant>
+</Resturant_details>

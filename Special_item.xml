@@ -1,0 +1,32 @@
+﻿<Special_item>
+  <Resturant>
+    <item_name>Chicken Tikka Masala</item_name>
+    <qty>5</qty>
+    <price>500</price>
+    <item_details>good food</item_details>
+  </Resturant>
+  <Resturant>
+    <item_name>Roast Dinner</item_name>
+    <qty>1</qty>
+    <price>300</price>
+    <item_details>delicious</item_details>
+  </Resturant>
+  <Resturant>
+    <item_name>Scotch Egg</item_name>
+    <qty>2</qty>
+    <price>100</price>
+    <item_details>healthy</item_details>
+  </Resturant>
+  <Resturant>
+    <item_name>Bangers and Mash</item_name>
+    <qty>1</qty>
+    <price>500</price>
+    <item_details>nice food</item_details>
+  </Resturant>
+  <Resturant>
+    <item_name>burger</item_name>
+    <qty>1</qty>
+    <price>100</price>
+    <item_details>delicious and healthy</item_details>
+  </Resturant>
+</Special_item>

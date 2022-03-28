@@ -1,0 +1,37 @@
+﻿<Stock_item>
+  <Resturant>
+    <stock_id>s1</stock_id>
+    <total_food>100</total_food>
+    <total_special_item>50</total_special_item>
+    <available_food>20</available_food>
+    <available_special_item>40</available_special_item>
+  </Resturant>
+  <Resturant>
+    <stock_id>s1</stock_id>
+    <total_food>100</total_food>
+    <total_special_item>50</total_special_item>
+    <available_food>20</available_food>
+    <available_special_item>40</available_special_item>
+  </Resturant>
+  <Resturant>
+    <stock_id>s1</stock_id>
+    <total_food>200</total_food>
+    <total_special_item>80</total_special_item>
+    <available_food>100</available_food>
+    <available_special_item>40</available_special_item>
+  </Resturant>
+  <Resturant>
+    <stock_id>s1</stock_id>
+    <total_food>150</total_food>
+    <total_special_item>50</total_special_item>
+    <available_food>20</available_food>
+    <available_special_item>40</available_special_item>
+  </Resturant>
+  <Resturant>
+    <stock_id>s1</stock_id>
+    <total_food>200</total_food>
+    <total_special_item>50</total_special_item>
+    <available_food>20</available_food>
+    <available_special_item>20</available_special_item>
+  </Resturant>
+</Stock_item>

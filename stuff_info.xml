@@ -1,0 +1,32 @@
+﻿<stuff_info>
+  <Resturant>
+    <stuff_id>sno1</stuff_id>
+    <stuff_name>mitchel</stuff_name>
+    <location>london</location>
+    <duty_hrs>10hrs</duty_hrs>
+  </Resturant>
+  <Resturant>
+    <stuff_id>sno2</stuff_id>
+    <stuff_name>rik</stuff_name>
+    <location>london</location>
+    <duty_hrs>12hrs</duty_hrs>
+  </Resturant>
+  <Resturant>
+    <stuff_id>sno3</stuff_id>
+    <stuff_name>tom</stuff_name>
+    <location>london</location>
+    <duty_hrs>8hrs</duty_hrs>
+  </Resturant>
+  <Resturant>
+    <stuff_id>sno4</stuff_id>
+    <stuff_name>jones</stuff_name>
+    <location>london</location>
+    <duty_hrs>10hrs</duty_hrs>
+  </Resturant>
+  <Resturant>
+    <stuff_id>sno5</stuff_id>
+    <stuff_name>joney</stuff_name>
+    <location>london</location>
+    <duty_hrs>8hrs</duty_hrs>
+  </Resturant>
+</stuff_info>
